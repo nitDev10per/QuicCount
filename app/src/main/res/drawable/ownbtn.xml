@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/circle">
+        <shape
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:shape="oval">
+            <solid android:color="#75F1F1F3"/>
+            <stroke android:color="#8A2B42C3"
+                android:width="2dp" />
+
+
+        </shape>
+
+    </item>
+    <item >
+        <shape android:shape="line">
+            <solid android:color="#060B0B"/>
+            <stroke android:width="100dp"/>
+        </shape>
+    </item>
+    <item>
+        <rotate android:fromDegrees="90">
+            <shape android:shape="line">
+                <solid android:color="@color/black"/>
+                <stroke android:width="100dp"/>
+
+            </shape>
+        </rotate>
+
+
+    </item>
+
+
+</layer-list>

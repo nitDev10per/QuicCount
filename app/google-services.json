@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "196086183420",
+    "firebase_url": "https://faststore-a2185-default-rtdb.firebaseio.com",
+    "project_id": "faststore-a2185",
+    "storage_bucket": "faststore-a2185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196086183420:android:bf4bfd45d5f463c9e4ee79",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtmyQj3tLOoFcw0wB4jOq9PtE4j63RwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
